@@ -4,10 +4,10 @@
 ---
 
 ### My Info  
-**Name:** Kanav Luthra  
-**Reg No.:** 25BCE10417  
-**Program:** BTech CSE Core  
-**School:** SCOPE  
+**Name:** Rahul Raj  
+**Reg No.:** 25BAI11096  
+**Program:** BTech AIML  
+**School:** SCAI  
 
 ## Project Overview
 
