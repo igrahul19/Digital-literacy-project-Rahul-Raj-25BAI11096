@@ -4,7 +4,7 @@ In the professional world, your email is often your first impression; it signals
 ---
 
 ### Email Examples  
-I've uploaded [Extension-Request](Extension-Request-Email.pdf) and [Summer-Internship-Inquiry](Summer-Internship-Inquiry-Email.pdf) as two professional email examples. You can read them as reference and learn accordingly.
+I've uploaded [Extension-Request] and [Summer-Internship-Inquiry] as two professional email examples. You can read them as reference and learn accordingly.
 
 ---
 
